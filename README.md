@@ -53,7 +53,6 @@ Result Generation & Reporting - Candidates receive performance reports with AI-b
 
 ## Technology Stack
  
-## Component     Technology Used
 Frontend         React.js, Tailwind CSS
 
 Backend          Node.js, Express.js
